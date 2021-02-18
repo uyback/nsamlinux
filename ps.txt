@@ -1,0 +1,9 @@
+  PID TTY          TIME CMD
+   49 pts/0    20:00:00 bash!!
+   60 kkkkkkkk
+   77 ptx/1     sh
+   61 pts/0    00 
+   68 pts/0    40:00:00 bash
+   72 pts/0    50:00:
+   83
+   72 pts/0    50:00
